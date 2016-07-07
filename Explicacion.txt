@@ -1,0 +1,17 @@
+Directives:
+ng-app
+ng-class
+ng-disabled
+ng-if
+ng-keypress
+ng-repeat
+ng-click
+ng-include
+ng-style
+ng-model
+ng-init
+ng-hide
+ng-show
+
+Services:
+$scope, $sce, $interval, $http, $location, $window, $log
